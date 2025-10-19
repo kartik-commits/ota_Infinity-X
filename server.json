@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "filename": "ota-package.zip",
+      "download": "https://example.com/ota-package.zip",
+      "timestamp": 1230764400,
+      "md5": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "size": 314572800,
+      "version": "16"
+    }
+  ]
+}
