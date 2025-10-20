@@ -1,1 +1,12 @@
-{\n  "response": [\n    {\n      "filename": "ota-package.zip",\n      "download": "https://example.com/ota-package.zip",\n      "timestamp": 1230764400,\n      "md5": "5eb63bbbe01eeed093cb22bb8f5acdc3",\n      "size": 314572800,\n      "version": "16"\n    }\n  ]\n}
+{
+	"response": [
+		{
+			"filename": "Project_Infinity-X-3.3-redwood-20251020-1012-GAPPS-UNOFFICIAL.zip",
+			"download": "https://release-assets.githubusercontent.com/github-production-release-asset/1079232017/587492e5-b8b1-4c3a-8fd7-077e21a2932c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-10-20T11%3A52%3A58Z&rscd=attachment%3B+filename%3DProject_Infinity-X-3.3-redwood-20251020-1012-GAPPS-UNOFFICIAL.zip&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-10-20T10%3A52%3A14Z&ske=2025-10-20T11%3A52%3A58Z&sks=b&skv=2018-11-09&sig=%2FDKs8m4WwwY9DBRWjV8Gd2Z7RFMSK5y81W5wn1uh6J0%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2MDk2MTQ2MywibmJmIjoxNzYwOTU3ODYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.z_1picFy_zdVMgON4-6QoYVtjctz4Fc4GOZxpxfplNg&response-content-disposition=attachment%3B%20filename%3DProject_Infinity-X-3.3-redwood-20251020-1012-GAPPS-UNOFFICIAL.zip&response-content-type=application%2Foctet-stream",
+			"timestamp": 1760954647,
+			"md5": "c37ba70c3228b04a1cd3036330196e02",
+			"size": 2085346995,
+			"version": "3.3"
+		}
+	]
+}
